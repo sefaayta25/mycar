@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cars">
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="315dp"
+        android:layout_marginBottom="2dp"
+        android:text="KİRALA" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="175dp"
+        android:layout_height="33dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="37dp"
+        android:text="KİRALAMA:600$/HOURS" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="77dp"
+        android:text="OTOMATİK VİTES" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="117dp"
+        android:text="BENZİNLİ" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="155dp"
+        android:text="Lamborghini Urus 2022 MODEL" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="175dp"
+        android:layout_height="33dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="214dp"
+        android:text="KİRALAMA:550$/HOURS" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="251dp"
+        android:text="OTOMATİK VİTES" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="292dp"
+        android:text="BENZİNLİ" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="315dp"
+        android:layout_marginBottom="188dp"
+        android:text="KİRALA" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="332dp"
+        android:text="PORSCHE CAYANNE 2021 MODEL" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="313dp"
+        android:layout_marginBottom="366dp"
+        android:text="KİRALA" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="175dp"
+        android:layout_height="33dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="384dp"
+        android:text="KİRALAMA:350$/HOURS" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="31dp"
+        android:layout_marginBottom="425dp"
+        android:text="OTOMATİK VİTES" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="463dp"
+        android:text="BENZİNLİ" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="31dp"
+        android:layout_marginBottom="500dp"
+        android:text="BMW 320d 2022 MODEL" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="175dp"
+        android:layout_height="33dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="574dp"
+        android:text="KİRALAMA:200$/HOURS" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="613dp"
+        android:text="OTOMATİK VİTES" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="655dp"
+        android:text="BENZİNLİ" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="220dp"
+        android:layout_height="153dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="191dp"
+        android:layout_marginBottom="578dp"
+        app:srcCompat="@drawable/images2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="149dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="696dp"
+        android:text="MERCEDES CLA 200 2019 MODEL" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="310dp"
+        android:layout_marginBottom="536dp"
+        android:text="KİRALA" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="217dp"
+        android:layout_height="128dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="191dp"
+        android:layout_marginBottom="406dp"
+        app:srcCompat="@drawable/images3" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="222dp"
+        android:layout_height="127dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="238dp"
+        app:srcCompat="@drawable/images4" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="205dp"
+        android:layout_height="134dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="201dp"
+        android:layout_marginBottom="52dp"
+        app:srcCompat="@drawable/indir" />
+</RelativeLayout>
